@@ -1,1 +1,1 @@
-# Control the ATHX-24 power supply with Arduino Nano
+### Control the ATHX-24 power supply with Arduino Nano
