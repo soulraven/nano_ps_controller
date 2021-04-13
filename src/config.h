@@ -16,6 +16,10 @@ struct NanoSettings {
 
 extern NanoSettings my_setting;
 
+extern bool power_state_button;
+extern bool power_state_save;
+extern int fan_duty_cycle; // int value that represent percent value from 0-255
+
 // -------------------------------------------------------------------
 // Load saved settings
 // -------------------------------------------------------------------
